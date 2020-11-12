@@ -5,6 +5,14 @@ body
     font-family: "Arial";
 
 }
+
+#cabecera
+{
+    background: #33A;
+    color: white;
+
+}
+
 #container
 {
     width: 70%;
