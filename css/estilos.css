@@ -5,6 +5,14 @@ body
     font-family: courier;
 
 }
+
+#cabecera
+{
+    background: #33A;
+    color: white;
+
+}
+
 #container
 {
     width: 70%;
